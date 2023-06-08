@@ -1,6 +1,8 @@
 package com.javatraning.chapter7_ilerijava.ThreadMain;
 
 public class Banka {
+
+    //Deneme amaçlı 2. commit için satır güncellendi.
     private int bakiye;
 
     public Banka() {
